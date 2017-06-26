@@ -1,0 +1,1 @@
+execute @e[type=armor_stand,name=Marker,score_Selected_min=1] scoreboard players set @p[score_Discounted=0,score_Found=0,score_Tried=0,score_Selected=0,c=1] Selected 1
